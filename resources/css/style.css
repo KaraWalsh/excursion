@@ -1,0 +1,35 @@
+* {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: black;
+}
+header {
+  text-align: center;
+}
+.main {
+  text-align: center;
+}
+.download {
+  color: aquamarine;
+  font-size: 16px
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+h3 {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+footer {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
